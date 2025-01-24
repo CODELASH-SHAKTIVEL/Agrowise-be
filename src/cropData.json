@@ -1,0 +1,333 @@
+{
+    "wheat": {
+      "sowing": {
+        "activities": [
+          "Prepare soil for planting",
+          "Ensure sufficient sunlight",
+          "Apply nitrogen-based fertilizers"
+        ],
+        "bestMonths": ["March", "April", "May"],
+        "weather": "Moderate rainfall and mild temperatures (15-20°C)",
+        "climate": "Temperate climate",
+        "issues": {
+          "wilting": "Possible due to insufficient watering or root issues.",
+          "yellowing": "Could be due to nitrogen deficiency.",
+          "pests": "Look out for aphids and weevils.",
+          "spots": "Fungal infections can cause leaf spots."
+        }
+      },
+      "vegetative": {
+        "activities": [
+          "Check soil moisture",
+          "Water plants regularly",
+          "Monitor pest infestations"
+        ],
+        "bestMonths": ["May", "June", "July"],
+        "weather": "Moderate rainfall, mild temperatures (18-25°C)",
+        "climate": "Temperate to subtropical climate",
+        "issues": {
+          "wilting": "Could be due to inadequate watering or root disease.",
+          "yellowing": "Deficiency in essential nutrients.",
+          "pests": "Check for aphid or wheat weevil damage.",
+          "spots": "Check for fungal or bacterial leaf spots."
+        }
+      },
+      "flowering": {
+        "activities": [
+          "Ensure proper pollination",
+          "Apply fungicides if needed",
+          "Maintain regular irrigation"
+        ],
+        "bestMonths": ["July", "August", "September"],
+        "weather": "Warm temperatures (20-30°C) with moderate rainfall",
+        "climate": "Temperate to subtropical climate",
+        "issues": {
+          "wilting": "Possible under stress from high heat or water shortage.",
+          "yellowing": "Due to nutrient deficiencies, especially nitrogen or potassium.",
+          "pests": "Pests such as aphids or locusts may harm plants.",
+          "spots": "Leaf spots may appear from fungal infections."
+        }
+      },
+      "harvesting": {
+        "activities": [
+          "Start harvesting when grains turn golden",
+          "Ensure proper drying of harvested grains",
+          "Check for pests during storage"
+        ],
+        "bestMonths": ["September", "October", "November"],
+        "weather": "Dry weather with cool temperatures (15-20°C)",
+        "climate": "Temperate to dry climate",
+        "issues": {
+          "wilting": "Rare, as the plant is nearing the end of the growth cycle.",
+          "yellowing": "Possible due to late-season nutrient depletion.",
+          "pests": "Watch for stored product pests during drying or storage.",
+          "spots": "Minimal risk of leaf spots at this stage."
+        }
+      }
+    },
+    "rice": {
+      "sowing": {
+        "activities": [
+          "Prepare the soil by tilling",
+          "Flood the fields for transplanting",
+          "Apply basal fertilizers"
+        ],
+        "bestMonths": ["May", "June"],
+        "weather": "Warm temperatures (25-35°C) with high humidity",
+        "climate": "Tropical to subtropical climate",
+        "issues": {
+          "wilting": "Possible due to water stress or improper irrigation.",
+          "yellowing": "Nutrient deficiencies or water quality issues.",
+          "pests": "Monitor for rice weevils and stem borers.",
+          "spots": "Leaf spot diseases can be common in humid conditions."
+        }
+      },
+      "vegetative": {
+        "activities": [
+          "Check water levels regularly",
+          "Apply fertilizers if needed",
+          "Control weeds manually or chemically"
+        ],
+        "bestMonths": ["June", "July", "August"],
+        "weather": "Warm temperatures (26-35°C) with high humidity",
+        "climate": "Tropical climate with plenty of rainfall",
+        "issues": {
+          "wilting": "May happen due to water stress.",
+          "yellowing": "Could be due to nitrogen or iron deficiency.",
+          "pests": "Monitor for leafhoppers and rice bugs.",
+          "spots": "Fungal leaf spots can affect plants."
+        }
+      },
+      "flowering": {
+        "activities": [
+          "Ensure proper irrigation",
+          "Control pest infestations",
+          "Apply fungicides as necessary"
+        ],
+        "bestMonths": ["July", "August", "September"],
+        "weather": "Warm and humid conditions (28-35°C)",
+        "climate": "Tropical or subtropical climate",
+        "issues": {
+          "wilting": "Stress from inconsistent watering or high temperatures.",
+          "yellowing": "May indicate a nutrient imbalance or pest issues.",
+          "pests": "Check for rice bug infestations and caterpillar damage.",
+          "spots": "Leaf spot diseases are common during flowering."
+        }
+      },
+      "harvesting": {
+        "activities": [
+          "Harvest when grains mature and dry",
+          "Check moisture content for proper storage",
+          "Ensure fields are cleared of pests"
+        ],
+        "bestMonths": ["October", "November", "December"],
+        "weather": "Dry and cool weather (20-25°C)",
+        "climate": "Tropical to temperate climate",
+        "issues": {
+          "wilting": "Uncommon in the harvesting stage.",
+          "yellowing": "Typically due to late-season nutrient depletion.",
+          "pests": "Watch for storage pests or fungal diseases.",
+          "spots": "Minimal risk of leaf spots during this stage."
+        }
+      }
+    },
+    "maize": {
+      "sowing": {
+        "activities": [
+          "Prepare soil and make furrows",
+          "Ensure proper seed spacing",
+          "Apply pre-planting fertilizers"
+        ],
+        "bestMonths": ["April", "May"],
+        "weather": "Warm temperatures (20-30°C) with moderate rainfall",
+        "climate": "Subtropical climate",
+        "issues": {
+          "wilting": "Water stress or soil compaction may cause wilting.",
+          "yellowing": "Possible due to nitrogen deficiency.",
+          "pests": "Monitor for maize weevil and rootworm.",
+          "spots": "Leaf spots may be caused by fungal or bacterial infections."
+        }
+      },
+      "vegetative": {
+        "activities": [
+          "Check soil moisture",
+          "Apply additional nitrogen-based fertilizers",
+          "Control weeds around the crop"
+        ],
+        "bestMonths": ["May", "June", "July"],
+        "weather": "Warm and moderate rainfall conditions (20-30°C)",
+        "climate": "Subtropical to tropical",
+        "issues": {
+          "wilting": "Could happen due to water stress or soil issues.",
+          "yellowing": "Look out for nitrogen deficiency symptoms.",
+          "pests": "Check for caterpillar pests and maize aphids.",
+          "spots": "Leaf spot diseases may develop in humid conditions."
+        }
+      },
+      "flowering": {
+        "activities": [
+          "Ensure adequate water supply",
+          "Apply fungicide if necessary",
+          "Maintain soil health"
+        ],
+        "bestMonths": ["July", "August", "September"],
+        "weather": "Warm, humid conditions (25-30°C)",
+        "climate": "Tropical climate",
+        "issues": {
+          "wilting": "Possible due to excessive heat or drought stress.",
+          "yellowing": "May be caused by nutrient deficiencies.",
+          "pests": "Monitor for corn borer and aphid infestations.",
+          "spots": "Fungal leaf spots can affect plants."
+        }
+      },
+      "harvesting": {
+        "activities": [
+          "Harvest when corn kernels are fully mature",
+          "Dry the harvested maize properly",
+          "Store maize in pest-free conditions"
+        ],
+        "bestMonths": ["September", "October", "November"],
+        "weather": "Dry weather (20-25°C)",
+        "climate": "Temperate or tropical climates",
+        "issues": {
+          "wilting": "Rare in this stage, as the plant is maturing.",
+          "yellowing": "Late-stage nutrient depletion may cause yellowing.",
+          "pests": "Check for pests during storage.",
+          "spots": "Minimal risk of leaf spots at this stage."
+        }
+      }
+    },
+    "potato": {
+      "sowing": {
+        "activities": [
+          "Prepare soil and ensure good drainage",
+          "Cut seed potatoes into pieces with at least one eye",
+          "Plant seed potatoes 10-15 cm deep"
+        ],
+        "bestMonths": ["March", "April", "May"],
+        "weather": "Cool temperatures (15-20°C) with moderate rainfall",
+        "climate": "Temperate climate",
+        "issues": {
+          "wilting": "Possible due to excessive watering or root rot.",
+          "yellowing": "Possible due to nutrient deficiencies, especially nitrogen.",
+          "pests": "Look for aphids and Colorado potato beetles.",
+          "spots": "Potato blight can cause leaf spots."
+        }
+      },
+      "vegetative": {
+        "activities": [
+          "Monitor water levels",
+          "Check for pests and diseases",
+          "Apply fertilizer as needed"
+        ],
+        "bestMonths": ["April", "May", "June"],
+        "weather": "Moderate rainfall and mild temperatures (15-20°C)",
+        "climate": "Temperate climate",
+        "issues": {
+          "wilting": "Over-watering can cause wilting.",
+          "yellowing": "Possible due to poor soil quality or nutrient deficiency.",
+          "pests": "Monitor for aphids, potato beetles, and slugs.",
+          "spots": "Check for early blight or late blight."
+        }
+      },
+      "flowering": {
+        "activities": [
+          "Ensure proper irrigation",
+          "Control pests and weeds",
+          "Maintain soil health"
+        ],
+        "bestMonths": ["May", "June", "July"],
+        "weather": "Cool to moderate temperatures (18-25°C)",
+        "climate": "Temperate climate",
+        "issues": {
+          "wilting": "Can be caused by lack of water or heat stress.",
+          "yellowing": "May indicate a lack of nutrients.",
+          "pests": "Look for aphids and potato beetles.",
+          "spots": "Leaf spots could indicate fungal diseases like blight."
+        }
+      },
+      "harvesting": {
+        "activities": [
+          "Harvest potatoes when foliage begins to die",
+          "Ensure potatoes are properly stored and dried",
+          "Protect harvested potatoes from pests"
+        ],
+        "bestMonths": ["August", "September", "October"],
+        "weather": "Dry weather with cool temperatures (15-20°C)",
+        "climate": "Temperate climate",
+        "issues": {
+          "wilting": "Uncommon during harvesting.",
+          "yellowing": "Late-stage yellowing is a normal process.",
+          "pests": "Check for storage pests.",
+          "spots": "Blight can affect storage potatoes."
+        }
+      }
+    },
+    "soybean": {
+      "sowing": {
+        "activities": [
+          "Prepare soil for planting",
+          "Ensure adequate soil moisture",
+          "Plant in rows and apply proper spacing"
+        ],
+        "bestMonths": ["May", "June"],
+        "weather": "Warm temperatures (20-30°C) with moderate rainfall",
+        "climate": "Subtropical to tropical climate",
+        "issues": {
+          "wilting": "May occur if soil moisture is inconsistent.",
+          "yellowing": "Can be caused by nitrogen deficiency.",
+          "pests": "Watch for aphids and soybean cyst nematodes.",
+          "spots": "Fungal leaf spots can occur."
+        }
+      },
+      "vegetative": {
+        "activities": [
+          "Check soil moisture",
+          "Monitor pest infestations",
+          "Fertilize if necessary"
+        ],
+        "bestMonths": ["June", "July", "August"],
+        "weather": "Warm temperatures (20-30°C) with moderate rainfall",
+        "climate": "Subtropical to tropical climate",
+        "issues": {
+          "wilting": "Stress from drought or poor irrigation.",
+          "yellowing": "Could be due to iron or nitrogen deficiencies.",
+          "pests": "Check for aphids and caterpillar pests.",
+          "spots": "Leaf spots can occur due to fungal infections."
+        }
+      },
+      "flowering": {
+        "activities": [
+          "Ensure adequate water supply",
+          "Apply fungicides if needed",
+          "Monitor for pest infestations"
+        ],
+        "bestMonths": ["July", "August", "September"],
+        "weather": "Warm temperatures (25-35°C) with moderate rainfall",
+        "climate": "Tropical climate",
+        "issues": {
+          "wilting": "May be caused by excessive heat or water stress.",
+          "yellowing": "Could indicate nutrient imbalance.",
+          "pests": "Monitor for aphid damage and soybean pod borer.",
+          "spots": "Check for fungal leaf spots."
+        }
+      },
+      "harvesting": {
+        "activities": [
+          "Harvest when pods are dry",
+          "Ensure beans are fully mature before harvesting",
+          "Dry beans thoroughly before storage"
+        ],
+        "bestMonths": ["September", "October", "November"],
+        "weather": "Dry weather (20-25°C)",
+        "climate": "Tropical to subtropical climate",
+        "issues": {
+          "wilting": "Rare at harvest time.",
+          "yellowing": "Late-stage yellowing due to senescence.",
+          "pests": "Watch for stored product pests during drying.",
+          "spots": "Minimal risk of spots in harvested beans."
+        }
+      }
+    }
+  }
+  
